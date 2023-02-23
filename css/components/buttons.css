@@ -1,0 +1,26 @@
+
+
+/* element.style {
+  background-image: url(images/background.png);
+} */
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: .5s;
+}
+
+.btn-primary:hover {
+  background-color: #00ff08;
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+}
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}
